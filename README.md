@@ -1,45 +1,10 @@
 # Microservice A - Galactic Delay Generator
 <!-- HTML File Switcher -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documentation Switcher</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .button {
-            display: inline-block;
-            margin: 10px;
-            padding: 10px 20px;
-            background-color: #4CAF50;
-            color: white;
-            text-align: center;
-            text-decoration: none;
-            border-radius: 4px;
-            cursor: pointer;
-        }
-        .button:hover {
-            background-color: #45a049;
-        }
-        iframe {
-            width: 100%;
-            height: 600px;
-            border: none;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Documentation Switcher</h1>
-    <p>Use the buttons below to switch between the documentation files.</p>
-    <a class="button" onclick="switchDoc('Microservice_Documentation.md')">Microservice Documentation</a>
-    <a class="button" onclick="switchDoc('Test_Random_Delay.md')">Test Program Documentation</a>
+<div style="text-align: left; font-family: Arial, sans-serif;">
+  <a href="Microservice_Documentation.md" style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 4px; cursor: pointer;">Microservice Doc</a>
+  <a href="Test_Random_Delay.md" style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 4px; cursor: pointer;">Testing Doc</a>
+</div>
 
-</body>
-</html>
 
 
 ## Program Description
