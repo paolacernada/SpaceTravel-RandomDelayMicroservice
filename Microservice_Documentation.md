@@ -77,7 +77,7 @@ Here's how any program can interact with this microservice:
 
 1. **Set Up ZeroMQ Communication:**
 
-    Your partner will need to set up a ZeroMQ REQ (request) socket to communicate with your microservice.
+    You will need to set up a ZeroMQ REQ (request) socket to communicate with this microservice.
 
 ```
 import zmq
