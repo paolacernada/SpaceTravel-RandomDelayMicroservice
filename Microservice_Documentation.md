@@ -3,9 +3,7 @@
 
 2. **Generate Random Delay:** The microservice will receive a time range, generate a random delay within the given range, and return this delay to the main application.
 
-3. **Simulate Space Exploration:** Use space travel terminology in the communication messages, such as referring to delays as "warp charge time" or "hyperdrive delay."
-
-4. **Communication Flow:** Ensure that the communication is seamless by setting up proper request and response handling using ZeroMQ.
+3. **Communication Flow:** Ensure that the communication is working by setting up proper request and response handling using ZeroMQ.
 
 ## Code for the Microservice
 
