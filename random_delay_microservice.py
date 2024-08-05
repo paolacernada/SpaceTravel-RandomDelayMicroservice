@@ -1,6 +1,5 @@
 import zmq
 import random
-import time
 
 # Create a ZeroMQ context
 context = zmq.Context()

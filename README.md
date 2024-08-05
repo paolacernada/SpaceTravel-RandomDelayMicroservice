@@ -132,7 +132,7 @@ This sequence diagram textually represents how the main application interacts wi
 - The microservice is `fully implemented and operational`.
 
 **If the microservice isn’t done, which parts aren’t done and when will they be done?**
-N/A, Microservice is `done` and fully working
+- N/A, Microservice is `done` and fully working
 
 **How is your teammate going to access your microservice?**
 - The microservice code is `available on GitHub`. My teammate should clone the repository and run the microservice `locally`.
