@@ -1,8 +1,8 @@
 # Microservice A - Galactic Delay Generator
 <!-- HTML File Switcher -->
 <div style="text-align: left; font-family: Arial, sans-serif;">
-  <a href="Microservice_Documentation.md" style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 4px; cursor: pointer;">Microservice Doc</a>
-  <a href="test_random_delay.md" style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 4px; cursor: pointer;">Testing Doc</a>
+  <a href="Microservice_Documentation.md" style="margin: 20px; padding: 20px 30px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 4px; cursor: pointer;">Microservice Doc</a>
+  <a href="test_random_delay.md" style="margin: 20px; padding: 20px 30px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 4px; cursor: pointer;">Testing Doc</a>
 </div>
 
 
