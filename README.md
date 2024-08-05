@@ -97,7 +97,7 @@ The UML sequence diagram below shows the request and response process between th
 |          |                            |              |
 +------------------------------------------------------+
 ```
-## Explanation:
+## UML Sequence Explanation:
 
 ### Space Travel Application:
 
