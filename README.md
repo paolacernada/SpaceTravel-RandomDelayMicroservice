@@ -155,6 +155,3 @@ The repository includes two additional documentation files that provide detailed
 
 2. **[Test Program Documentation (`Test_Random_Delay.md`)](./Test_Random_Delay.md):**
    - This document provides a comprehensive guide for setting up and running the test program to verify the functionality of the microservice. It includes code samples, expected outputs, and troubleshooting tips.
-
-These documents are essential for understanding how to integrate the microservice with the main space exploration application and for verifying its functionality.
-
