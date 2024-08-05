@@ -1,12 +1,12 @@
 """
 test_random_delay.py
 
-This script tests the random delay microservice for generating random time delays 
-within a specified range. It simulates interaction with the microservice using 
+This script tests the random delay microservice for generating random time delays
+within a specified range. It simulates interaction with the microservice using
 ZeroMQ sockets, similar to how a space exploration application might use the service.
 
 The test program requests random delays and verifies that the microservice returns
-valid delay times. It also simulates the delay in the application flow using space 
+valid delay times. It also simulates the delay in the application flow using space
 travel terminology.
 
 To run this test program, ensure that the random delay microservice is running.
